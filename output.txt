@@ -1,0 +1,67 @@
+Kerek biteket (0 vagy 1):
+Bekerult (bit=1): igen
+Bekerult (bit=0): igen
+Bekerult (bit=1): nem
+Bekerult (bit=0): igen
+Bekerult (bit=0): nem
+Bekerult (bit=0): igen
+Bekerult (bit=1): nem
+Bekerult (bit=0): nem
+Bekerult (bit=1): igen
+Bekerult (bit=0): nem
+Bekerult (bit=1): igen
+Bekerult (bit=1): nem
+Bekerult (bit=1): igen
+Bekerult (bit=1): nem
+Bekerult (bit=1): nem
+Bekerult (bit=0): igen
+Bekerult (bit=0): nem
+Bekerult (bit=0): nem
+Bekerult (bit=0): igen
+Bekerult (bit=1): nem
+Bekerult (bit=1): nem
+Bekerult (bit=0): nem
+Bekerult (bit=1): igen
+Bekerult (bit=1): nem
+Bekerult (bit=0): nem
+Bekerult (bit=0): igen
+Bekerult (bit=0): nem
+Bekerult (bit=1): nem
+Bekerult (bit=0): igen
+Bekerult (bit=1): nem
+Bekerult (bit=1): nem
+Bekerult (bit=0): nem
+Bekerult (bit=1): nem
+Bekerult (bit=1): igen
+Bekerult (bit=0): nem
+Bekerult (bit=1): nem
+Bekerult (bit=0): nem
+Bekerult (bit=0): igen
+Bekerult (bit=1): nem
+
+preorder bejaras:
+-1 0 0 0 1 0 0 1 0 0 
+1 1 0 1 1 
+inorder bejaras:
+0 0 0 0 0 1 -1 0 0 1 
+1 0 1 1 1 
+postorder bejaras:
+0 0 0 0 1 0 0 1 0 1 
+1 0 1 1 -1 
+
+Utvonal: 
+-1 0 0 0 
+Utvonal: 
+-1 0 1 0 0 
+Utvonal: 
+-1 1 0 0 
+Utvonal: 
+-1 1 0 1 
+Utvonal: 
+-1 1 1 0 1 1 
+
+Levelek: 3 4 3 3 5 
+Levelek szama: 5
+Osszeg: 18
+Atlag: 3.6
+Szoras: 0.8
